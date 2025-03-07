@@ -17,7 +17,7 @@ selected = option_menu(
 # When Home is selected
 if selected == "Home":
     st.title("Hi, I am Swapnil Nanda from the department of Computer Science and Engineering.")
-    st.write("This is my first webapp using streamlit. There are many technical glitches in it. Your feedback is awaited.")
+    st.write("This is my first webapp using streamlit. Initial testing of camera access...")
 # When Image is selected
 if selected == "Image":
     # Option menu after selecting Image
